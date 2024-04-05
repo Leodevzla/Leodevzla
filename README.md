@@ -13,7 +13,7 @@
 <br>
 
 <h2>You can contact me</h2>
-<a href="https://www.linkedin.com/in/leonardo-padron/">
+<a href="https://www.linkedin.com/in/leonardo-padron/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin,)]">
 </a>
 <!---
