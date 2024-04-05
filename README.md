@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on I'm looking to collaborate on projects to improve my technique<br>
 - 📫 How to reach me +584127782408<br>
 - 😄 Pronouns: Leo<br>
-
+<h2>Technologies I'm using</h2>
+<img src="https://icons8.com/icon/20909/html-5">
 <!---
 Leodevzla/Leodevzla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
