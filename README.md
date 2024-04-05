@@ -13,7 +13,7 @@
 <br>
 
 <h2>You can contact me</h2>
-<img src="https://skillicons.dev/icons?i=linkedin,wasm)](https://www.linkedin.com/in/leonardo-padron/">
+<img src="https://skillicons.dev/icons?i=linkedin,)](https://www.linkedin.com/in/leonardo-padron/">
 
 <!---
 Leodevzla/Leodevzla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
