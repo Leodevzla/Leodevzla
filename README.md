@@ -5,7 +5,7 @@
 - 📫 How to reach me +584127782408<br>
 - 😄 Pronouns: Leo<br>
 <h2>Technologies I'm using</h2>
-<img src="https://skillicons.dev/icons?i=html,css,js,astro,git,react,angular,figma,wasm)](https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=html,css,js,astro,git,react,angular,figma,wordpress,elementor,wasm)](https://skillicons.dev">
 <br>
 <br>
 <br>
