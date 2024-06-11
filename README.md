@@ -11,7 +11,7 @@
 <br>
 <br>
 <br>
-<img src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen>/><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>
+<img src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>
 <h2>You can contact me</h2>
 <a href="https://www.linkedin.com/in/leonardo-padron/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin,)]">
